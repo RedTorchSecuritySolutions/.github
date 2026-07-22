@@ -1,12 +1,15 @@
-## Hi there 👋
+# Red Torch Security Solutions
 
-<!--
+Company founded in July of 2026 with the core idea of improving physical secuirty by making the equipment everyone already has smarter.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+# RTSS Sentinel
+
+The core product suite being sold to homes, businesses, and governments.
+
+```mermaid
+graph
+A[Sentinel Suite] --> B((Residential))
+A --> C((Municipal))
+A --> D((Enterprise))
